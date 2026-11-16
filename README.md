@@ -1,8 +1,8 @@
 # EMBERLINE — Tactical Strike
 
-[![threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/c/threejs-fps-02)
-[![rank](https://make.fun/badge/threejs-fps-02/ahmadcrypto/threejs-fps-entry/rank.svg)](https://make.fun/c/threejs-fps-02)
-[![reward](https://make.fun/badge/threejs-fps-02/ahmadcrypto/threejs-fps-entry/reward.svg)](https://make.fun/c/threejs-fps-02)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/ahmadcrypto/threejs-fps-entry/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/ahmadcrypto/threejs-fps-entry/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 A round-based tactical FPS in three.js, built for the make.fun bounty
 "Make the best three.js tactical FPS" (threejs-fps-02). An original game in
@@ -62,3 +62,6 @@ vendored `vendor/makefun-threejs.ts` library.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+<sub>Entered on [make.fun](https://make.fun/?ref=f2f8brv2&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
